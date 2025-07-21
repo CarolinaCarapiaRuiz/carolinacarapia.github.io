@@ -7,4 +7,4 @@ Este es mi portafolio profesional como desarrolladora iOS senior, creado con Git
 - GitHub Pages
 - Diseño responsive
 
-👀 Visítalo en: [https://carolinacarapia.github.io](https://carolinacarapia.github.io)
+👀 Visítalo en: [Portafolio](https://carolinacarapiaruiz.github.io/Carolina-portafolio/)
